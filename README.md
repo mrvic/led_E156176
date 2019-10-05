@@ -1,6 +1,10 @@
 # led_E156176
 LED panel scrapped from old HP SCANJET 5000 
 
+# LCD IMAGE
+![IMG_20191004_141848 (Medium).jpg](IMG_20191004_141848 (Medium).jpg)
+
+
 # LABELS on LCD 1602
 ROHS
 E156176
