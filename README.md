@@ -22,3 +22,5 @@ D01-85057
 - characters can be seen only from an angle view
 - By adding 50ohm resistor to VCC and 220ohm resistor to ANODE LCD starts working!!!
 
+# WORKING SOLUTION !!!
+![circuits.JPG](circuits.JPG)
