@@ -4,6 +4,8 @@ LED panel scrapped from old HP SCANJET 5000
 # LCD IMAGE
 ![led.jpg](led.jpg)
 
+# LCD PINOUT
+![pinout.JPG](pinout.JPG)
 
 # LABELS on LCD 1602
 ROHS
